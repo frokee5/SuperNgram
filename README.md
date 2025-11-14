@@ -484,9 +484,6 @@ print(f"Понято: {understanding['meaning']}")
 
 ---
 
-## 📄 Лицензия
-
-MIT License
 
 ---
 
